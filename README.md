@@ -40,7 +40,7 @@
 
 2. Scopri l’IP della Fire TV da **Impostazioni > Rete**
 
-3. [Scarica il file APK](https://github.com/lavitasecondopizzi/keepawake/releases/latest/download/KeepAwake.apk)
+3. [Scarica il file APK](https://lavitasecondopizzi.github.io/keepawake/apk)
 
 4. Installa ADB sul PC:
    https://developer.android.com/tools/releases/platform-tools
@@ -61,7 +61,7 @@
 2. Installa l’app “Downloader” dallo store Amazon
 
 3. Apri Downloader e inserisci:
-   https://github.com/lavitasecondopizzi/keepawake/releases/latest/download/KeepAwake.apk
+  https://lavitasecondopizzi.github.io/keepawake/apk
 
 4. Scarica e seleziona **Installa**
 
