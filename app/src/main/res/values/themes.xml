@@ -1,4 +1,3 @@
 <resources>
-
-    <style name="Theme.Keepawake" parent="Theme.AppCompat.DayNight.NoActionBar" />
+    <style name="Theme.Keepawake" parent="@android:style/Theme.NoDisplay" />
 </resources>
